@@ -1,0 +1,12 @@
+roi1-face
+roi2-left cheek
+roi3-forehead
+
+sub1-kacey
+sub2-Amanda
+sub3-Katie
+sub4-Gavin
+sub5-Jamari
+sub6-liz
+sub7-miller
+sub8-peace
